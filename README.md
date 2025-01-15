@@ -4,6 +4,24 @@
 
 ### Basic dimensions
 
+![Basic dimensions of the DIY Drum Enclosure](images/basic-dimensions.png)
+
+### Platform
+
+![Platform dimensions and design of the DIY Drum Enclosure](images/platform.png)
+
+### Roof
+
+![Roof dimensions and design of the DIY Drum Enclosure](images/roof.png)
+
+### Side Frame
+
+![Side frame dimensions and design of the DIY Drum Enclosure](images/side-frame.png)
+
+### Complete Frame
+
+![Complete frame dimensions and structure design of the DIY Drum Enclosure](images/complete-frame.png)
+
 ## List of Materials
 
 | Item Name                                   | Quantity | Unit Price | Price  | Supplier Link            |
