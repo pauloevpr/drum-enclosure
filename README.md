@@ -41,4 +41,5 @@
 | Door Seal                                   | 1        |  $12.00    | $12    | [Bunnings](https://www.bunnings.com.au/raven-5000mm-brown-rp48-self-adhesive-weather-strip_p3961071) |
 | Door Hinge                                  | 1        |  $8.80     | $8.80  | [Bunnings](https://www.bunnings.com.au/heavy-duty-hinge-austyle-100x75-2-5mm-304sss-45508_p0263308) |
 | Door Lock                                   | 1        |  $9.00     | $9     | [Bunnings](https://www.bunnings.com.au/taskmaster-75mm-matte-black-surface-bolt_p0133192) |
-|                                             |          |            | **$1766** | |
+| Portable A/C                                | 1        |  $89.95    | $89.95 | [PolarBrezzy](https://polarbreezy.com.au/products/1x-polar-breezy%E2%84%A2)
+|                                             |          |            | **$1855** | |
